@@ -40,17 +40,15 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+![image](https://user-images.githubusercontent.com/75235167/206199902-f6b3c1e4-429c-4c9d-b6f3-229d185a6a8d.png)
+![image](https://user-images.githubusercontent.com/75235167/206199967-bbb93c9c-7ab6-4c51-9f06-e90cb2521915.png)
+![image](https://user-images.githubusercontent.com/75235167/206200016-300c22a8-dc27-4e07-92d9-9d7f624d2968.png)
 
-//Name:
-MoveJ ................
+### Robo Action:
+![image](https://user-images.githubusercontent.com/75235167/206200096-a159996b-3b0b-4a34-82b4-ff4d9ba54424.png)
 
-## output : 
-
-
-## Results: 
-
-
+### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
