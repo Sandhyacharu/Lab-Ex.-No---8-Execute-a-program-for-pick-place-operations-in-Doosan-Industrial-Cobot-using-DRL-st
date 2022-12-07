@@ -44,10 +44,10 @@ Procedure:
 ![image](https://user-images.githubusercontent.com/75235167/206199967-bbb93c9c-7ab6-4c51-9f06-e90cb2521915.png)
 ![image](https://user-images.githubusercontent.com/75235167/206200016-300c22a8-dc27-4e07-92d9-9d7f624d2968.png)
 
-### Robo Action:
-![image](https://user-images.githubusercontent.com/75235167/206200096-a159996b-3b0b-4a34-82b4-ff4d9ba54424.png)
+### output:
+![image](https://user-images.githubusercontent.com/75235167/206201803-d765d04c-c85e-48b3-845e-ce59e302abde.png)
 
-### Results: 
+### Result: 
 Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
